@@ -1,0 +1,3 @@
+# Set organization admins team as code owners for all files on the master branch
+/main @redpeppersoftware/rps-organization-admins
+/CODEOWNERS @redpeppersoftware/rps-organization-admins
