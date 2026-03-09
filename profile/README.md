@@ -27,7 +27,3 @@ Empowering client teams through best-practice advisory, change management, execu
 
 ## Our Values
 Red Pepper prizes **grit**, **full ownership**, and **professionalism** in every engagement, serving as a trusted extension of each client's team.
-
----
-
-*This repository contains shared GitHub configuration (issue templates, workflows, etc.) for Red Pepper Software's GitHub organization.*
